@@ -5,6 +5,6 @@ export default class Aluno {
   }
 
   apresentar() {
-    console.log(`Olá, meu nome é ${this.nome} e curso ${this.curso}`);
+    console.log(`Olá!, meu nome é ${this.nome} e curso ${this.curso}`);
   }
 }
